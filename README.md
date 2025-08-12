@@ -13,7 +13,7 @@ A conversational AI chatbot built with [LangGraph](https://github.com/langchain-
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/langgraph-chatbot.git
+   git clone https://github.com/Ishtiaque117/langgraph-chatbot.git
    cd langgraph-chatbot
    ```
 
